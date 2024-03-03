@@ -18,7 +18,9 @@ The description of the subtasks can be found also in App.js as comments:
 
 # Running the Exercise
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `npm install`
+
+Run it to install the necessary packages for the exercise to run.
 
 ### `npm start`
 
